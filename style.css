@@ -1,0 +1,18 @@
+body{
+    display: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 300px;
+    background-color: rgb(200, 211, 211);
+}
+button{
+    position: relative;
+    
+    width:300px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right, white, rgb(230, 225, 228));
+     
+}
